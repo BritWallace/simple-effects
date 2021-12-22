@@ -12,3 +12,15 @@ p:hover {
 .clickable:hover {
   text-decoration: underline;
 }
+body {
+  background-color:pink
+}
+.container {
+  text-align: center;
+  text-decoration-color: black;
+  font-size: 300%;
+}
+span {
+  text-decoration-color: black;
+}
+
